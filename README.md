@@ -12,3 +12,8 @@
  ## Deployment
 
  - [Deployment Link](https://white-board-flame.vercel.app/)
+
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/f92f6fe8-8774-4a20-a7e5-d069e22db686)
+
